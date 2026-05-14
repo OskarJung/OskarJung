@@ -1,4 +1,6 @@
 # Hi, I'm Oskar!
+I am an Automation and Robotics student passionate about bridging the gap between hardware and software. My technical interests span across digital logic design (FPGA/Verilog), embedded systems (C++), and clean software architecture.
+
 ###  Featured Projects
 #### 1. [FPGA & Digital Design Portfolio](https://github.com/OskarJung/FPGA_project)
 * **Description:** A collection of hardware modules and systems designed in Verilog and synthesized using Xilinx Vivado. Demonstrates hardware architecture, RTL simulation, and automated EDA environment recreation via Tcl scripting.
